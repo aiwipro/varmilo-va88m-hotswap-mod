@@ -6,7 +6,7 @@ Varmilo VA88M Sakura MX Brown (TKL)
 
 Great keyboard, but has a terrible "ping" sound when releasing the keys. This ping seems to be resolved in the V2/USB-C variant of the keyboard using foam betwwen the plate and the PCB.
 
-## The Plan
+# The Plan
 
 1. Open the keyboard casing
 2. Desolder the switches and the LEDs
@@ -18,22 +18,26 @@ Great keyboard, but has a terrible "ping" sound when releasing the keys. This pi
 
 ## Step 1. Opening the Keyboard
 
-![image](images/image1.png)
+Using a PH1 screwdriver, six screws are removed from the underside of the keyboard. A metal spudger may then be used along the top and bottom split line in order to safely unlatch the plastic tabs holding the top and bottom halves together.
+
+After this, the connector board may be disconnected and the PCB and plate assembly is free.
+
+![image](images/image2.jpeg)
 
 
 ## Step 2. Desoldering the switches and the LEDs
 
 Using a desoldering iron, it is possible to remove solder from each pin relatively quickly. Ideally, one would use a hot air gun for this.
 
-![image](images/image2.jpeg)
-
 ![image](images/image3.jpeg)
 
 ![image](images/image4.jpeg)
 
-Varmilo really does not want you to desolder the switches. By placing the LED above the switch, it is impossible to remove it withour also removeing the LED.
+Varmilo really does not want you to desolder the switches. By placing the LED above the switch, it is impossible to remove it without also removeing the LED.
 
 ![image](images/image5.jpeg)
+
+After all of the switches and LEDs are removed, the plate assembly is removed using pliers straightening the bent metal flanges holding it to the PCB.
 
 
 ## Step 3. Fitting special hot swap sleeves in the original solder holes for the switches
@@ -59,7 +63,7 @@ Keyboard switches usually have a good amount of space in the location of the LED
 
 ![image](images/image11.jpeg)
 
-The first test was somewhat successful, only a few LEDs were damaged in the removal process. Ideally, one should have removed the switches and LEd with a hot air gun. Then all components would have survived the transplant.
+The first test was somewhat successful, only a few LEDs were damaged in the removal process. Ideally, one should have removed the switches and LEDs with a hot air gun. Then all the LEDs would have survived the transplant. I broke some of them in the removal process.
 
 ![image](images/image12.jpeg)
 
