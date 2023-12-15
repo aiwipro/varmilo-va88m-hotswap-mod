@@ -68,3 +68,10 @@ The first test was somewhat successful, only a few LEDs were damaged in the remo
 ![image](images/image12.jpeg)
 
 To be continued...
+
+
+## Step 5. Placing switch foam on the PCB
+
+## Step 6. Placing plate foam on the steel plate
+
+## Step 7. Reassembly
