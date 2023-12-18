@@ -67,11 +67,27 @@ The first test was somewhat successful, only a few LEDs were damaged in the remo
 
 ![image](images/image12.jpeg)
 
-To be continued...
-
 
 ## Step 5. Placing switch foam on the PCB
 
+![image](images/image13.jpeg)
+
+
 ## Step 6. Placing plate foam on the steel plate
 
+![image](images/image14.jpeg)
+
+
 ## Step 7. Reassembly
+
+![image](images/image15.jpeg)
+
+
+Caps Lock and Scroll Lock illuminates when active. Home and End are without LEDs as too many broke during disassembly.
+
+![image](images/image16.jpeg)
+
+
+Reassembled with a set of non-original keycaps. The original keycaps are on another keyboard at the moment.
+
+![image](images/image17.jpeg)
